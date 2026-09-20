@@ -4,12 +4,11 @@ I am Jerwen, A license professional teacher in Elementary/SPED with 3 years of e
 I am building my foundation in Artificial Intelligence and Machine learning.
 I enjoy creating Assistive Technology while practicing my python, pandas, numpy, scikitlearn, statistic and Machine Learning for Education. It's very useful to my profession in order to track and manage the students performance.
 
-Here are some ideas to get you started:
-
+## About Me:
 - 🔭 I’m currently working on technical skills for Edtech.
 - 🌱 I’m currently learning Data Science and AI/ML for application in education.
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with projects involving Assistive Technology and Educational Data Analytics.
+- 👯 I’m looking to collaborate on involving Assistive Technology and Educational Data Analytics.
+- 🤔 I’m looking for help on Assistive Technology for SPED.
 - 💬 Ask me about SPED teaching strategies
 - 📫 How to reach me: jerrwenvistal8@gmail.com
 - 😄 Pronouns: 
