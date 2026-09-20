@@ -18,6 +18,19 @@ I enjoy creating Assistive Technology while practicing my python, pandas, numpy,
            # Batak mag study pero dugay maka learn hahaha
   
 ## Tech Stack
+
+### Tech Stack
+
+#### 🐍 Languages
+![Python](https://shields.io)
+
+#### 📚 Libraries & Frameworks
+![Pandas](https://shields.io) ![NumPy](https://shields.io) ![Matplotlib](https://shields.io) ![scikit-learn](https://shields.io)
+
+#### 🧠 Domains & Fields
+![Data Science](https://shields.io) ![Machine Learning](https://shields.io) ![AI Automation](https://shields.io)
+
+
 - Languages: Python
 - libraries: Pandas, Numpy, Matplotlib, Scikit-learn etc.
 - Domain: Bachelor of Elementary Education, Special Education (SPED), Data Science, Data Analyst, Machine Learning, Algebra, Statistics, AI Automation
