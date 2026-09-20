@@ -22,6 +22,10 @@ I enjoy creating Assistive Technology while practicing my python, pandas, numpy,
 - libraries: Pandas, Numpy, Matplotlib, Scikit-learn etc.
 - Domain: Bachelor of Elementary Education, Special Education (SPED), Data Science, Data Analyst, Machine Learning, Algebra, Statistics, AI Automation
 
+## My Github Stats
+
+![Jerwen's GitHub](https://vercel.app
+
   ## Outside in Online/Tech
 - Cookery NC II Holder
 - Bread & Pastry NC II Holder
