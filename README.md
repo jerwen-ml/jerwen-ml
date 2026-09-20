@@ -24,7 +24,7 @@ I enjoy creating Assistive Technology while practicing my python, pandas, numpy,
 
 ## My Github Stats
 
-![Jerwen's GitHub](https://vercel.app
+![Jerwen's GitHub](https://vercel.app)
 
   ## Outside in Online/Tech
 - Cookery NC II Holder
