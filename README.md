@@ -1,55 +1,99 @@
-## Hi there 👋
+# Hi, I'm Jerwen! 👋
 
-I am Jerwen, A license professional teacher in Elementary/SPED with 3 years of experience handling kids with especial needs. 
-I am building my foundation in Artificial Intelligence and Machine learning.
-I enjoy creating Assistive Technology while practicing my python, pandas, numpy, scikitlearn, statistic and Machine Learning for Education. It's very useful to my profession in order to track and manage the students performance.
+### Teacher • SPED Advocate • Aspiring Data Scientist • AI/ML Learner
 
-## About Me:
-- 🔭 I’m currently working on technical skills for Edtech.
-- 🌱 I’m currently learning Data Science and AI/ML for application in education.
-- 👯 I’m looking to collaborate on involving Assistive Technology and Educational Data Analytics.
-- 🤔 I’m looking for help on Assistive Technology for SPED.
-- 💬 Ask me about SPED teaching strategies
-- 📫 How to reach me: jerrwenvistal8@gmail.com
-- 😄 Pronouns: 
-- ⚡ Fun fact;
-           # I am average person but i love learning Tech!
-           # I don't eat and drink sugary foods especially soda since 2021. what i feel? I don't feel tired that's what i feel right now.
-           # Batak mag study pero dugay maka learn hahaha
-  
-## Tech Stack
+I am a licensed professional teacher with 3 years of experience working with elementary learners and students with special educational needs. I am currently building my skills in **Python, Data Science, Artificial Intelligence, and Machine Learning**.
 
-### Tech Stack
+My goal is to create technology that supports teachers, learners, and people with disabilities—especially through **assistive technology and educational data analytics**.
 
-#### 🐍 Languages
-![Python](https://shields.io)
+---
 
-#### 📚 Libraries & Frameworks
-![Pandas](https://shields.io) ![NumPy](https://shields.io) ![Matplotlib](https://shields.io) ![scikit-learn](https://shields.io)
+## 🚀 What I'm Working On
 
-#### 🧠 Domains & Fields
-![Data Science](https://shields.io) ![Machine Learning](https://shields.io) ![AI Automation](https://shields.io)
+- Building my technical foundation in Python and Data Science
+- Exploring AI/ML applications for education
+- Creating assistive technology tools for SPED learners
+- Learning how to use data to support teaching and student progress
+- Developing projects that connect education and technology
 
-### Tech Stack
+---
 
-#### Languages & Libraries
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev" />
-</a>
+## 🧠 Skills and Technologies
 
+### Languages and Tools
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- Languages: Python
-- libraries: Pandas, Numpy, Matplotlib, Scikit-learn etc.
-- Domain: Bachelor of Elementary Education, Special Education (SPED), Data Science, Data Analyst, Machine Learning, Algebra, Statistics, AI Automation
+### Libraries
 
-## My Github Stats
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-![Jerwen's GitHub](https://vercel.app)
+### Areas of Interest
 
-  ## Outside in Online/Tech
-- Cookery NC II Holder
-- Bread & Pastry NC II Holder
--  Driver's License code 3 ( soon make a project about computer vision for driver's safety)
--  A Teacher in Elementary/SPED (3 years of experience)
-- Basketball Player
+- Educational Data Analytics
+- Assistive Technology
+- Special Education Technology
+- Machine Learning
+- AI Automation
+- Data Visualization
+- Computer Vision
+- Student Learning Analytics
+
+---
+
+## 📌 Featured Projects
+
+Here are some projects I am working toward:
+
+- 📊 **Student Progress Tracker** — A data tool for monitoring learner progress
+- 🧩 **SPED Assistive Technology Tool** — Technology designed to support learners with special needs
+- 📈 **Educational Data Dashboard** — Visualizing classroom and student data
+- 🚗 **Driver Safety Computer Vision Project** — Exploring computer vision for safer driving
+
+> More projects will be added as I continue learning and building.
+
+---
+
+## 👨‍🏫 About Me
+
+- 🎓 Licensed professional teacher
+- 🧑‍🏫 3 years of experience in elementary and SPED education
+- 🍳 Cookery NC II holder
+- 🥐 Bread and Pastry NC II holder
+- 🏀 Basketball player
+- 🚗 Driver's License Code 3 holder
+- 🥤 I stopped consuming sugary drinks in 2021
+- 📚 I learn slowly sometimes, but I never stop learning
+
+---
+
+## 🤝 Let's Connect
+
+I am interested in collaborating on projects related to:
+
+- Assistive technology
+- Special education
+- Educational data analytics
+- AI and machine learning in education
+- Tools that make learning more accessible
+
+📫 Email: [jerrwenvistal8@gmail.com](mailto:jerrwenvistal8@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![Jerwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerwen-ml&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jerwen-ml&layout=compact&theme=tokyonight)
+
+---
+
+### ⚡ Motto
+
+> Learning slowly is still learning. Building small is still building.
