@@ -30,6 +30,14 @@ I enjoy creating Assistive Technology while practicing my python, pandas, numpy,
 #### 🧠 Domains & Fields
 ![Data Science](https://shields.io) ![Machine Learning](https://shields.io) ![AI Automation](https://shields.io)
 
+### Tech Stack
+
+#### Languages & Libraries
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev" />
+</a>
+
+
 
 - Languages: Python
 - libraries: Pandas, Numpy, Matplotlib, Scikit-learn etc.
