@@ -30,27 +30,40 @@ for teachers and learners.
 ![Jupyter](https://img.shields.io/badge/Jupyter-2563EB?style=flat-square&logo=jupyter&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-2563EB?style=flat-square&logo=scikitlearn&logoColor=white)
 
-## Featured Learning Projects
+## Project Spotlight: Smart Visual Schedule
 
-| Project | What I practiced |
+[Explore the project →](https://github.com/jerwen-ml/smart-visual-schedule)
+
+A teacher-guided classroom prototype connecting my SPED experience with
+my interest in practical educational technology.
+
+- Visual activity cards with current and next activity previews.
+- Optional spoken instructions and adjustable activity timers.
+- Teacher-controlled completion, schedule restart, and CSV completion logs.
+- Editable activities and pictures, with settings saved in the browser.
+
+**Built with:** HTML, CSS, and JavaScript, with AI-assisted development.  
+**Stage:** Laptop prototype for testing with fictional learner codes.
+
+The current version does not use AI/ML. My focus is on understanding
+the code, checking its behavior, and improving its usefulness for teachers.
+
+## Data & Machine Learning Practice
+
+| Project | Focus |
 | --- | --- |
 | [Adult Census Income Analysis](https://github.com/jerwen-ml/adult-census-income-analysis) | Data cleaning, income comparisons, charts, and communicating findings and limitations. |
+| [Titanic Data Cleaning](https://github.com/jerwen-ml/titanic-data-cleaning) | Inspecting missing values, documenting cleaning decisions, and exporting data with Pandas. |
 | [Learning Center Data Cleaning](https://github.com/jerwen-ml/learning-center-data-cleaning) | Cleaning fictional learning-center records and exploring data quality with Pandas. |
 | [SPED Accommodations Matcher](https://github.com/jerwen-ml/sped-accommodations-matcher) | Introductory machine learning using fictional student profiles and accommodation labels. |
 
-These are learning projects developed with guidance as I build
-my ability to write, explain, and improve code independently.
+These are learning projects developed with guidance, including AI assistance,
+as I build my ability to write, explain, and improve code independently.
+I aim to document what each project does, what I learned, and its limitations.
 
-The SPED matcher is an educational prototype, not a validated
-tool for making decisions about learners.
-
-## Learning Milestones
-
-- Published an Adult Census analysis with charts, findings,
-  limitations, and raw and cleaned datasets.
-- Created a Pandas data-cleaning project using fictional
-  learning-center records.
-- Built an introductory SPED accommodations matching project.
+The SPED projects are educational prototypes, not validated tools for
+assessment or decisions about learners. Classroom prototype testing uses
+fictional data and teacher oversight.
 
 ## Currently Learning
 
