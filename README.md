@@ -30,6 +30,21 @@ for teachers and learners.
 ![Jupyter](https://img.shields.io/badge/Jupyter-2563EB?style=flat-square&logo=jupyter&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-2563EB?style=flat-square&logo=scikitlearn&logoColor=white)
 
+![VS Code](https://img.shields.io/badge/VS%20Code-2563EB?style=flat-square)
+![Wokwi](https://img.shields.io/badge/Wokwi-2563EB?style=flat-square)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-2563EB?style=flat-square)
+![Edge Impulse](https://img.shields.io/badge/Edge%20Impulse-2563EB?style=flat-square)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-2563EB?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-2563EB?style=flat-square)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-2563EB?style=flat-square)
+![Canva](https://img.shields.io/badge/Canva-2563EB?style=flat-square)
+![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2563EB?style=flat-square)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-2563EB?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-2563EB?style=flat-square)
+![Zapier](https://img.shields.io/badge/Zapier-2563EB?style=flat-square)
+
+I am learning and practicing these tools through small projects and hands-on exercises.
+
 ## Project Spotlight: Smart Visual Schedule
 
 [Explore the project →](https://github.com/jerwen-ml/smart-visual-schedule)
